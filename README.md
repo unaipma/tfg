@@ -1,7 +1,7 @@
 # TPV Bar - Terminal Punto de Venta para Hostelería
 
 **Desarrollado por:** Unai Pastor Martínez  
-**Proyecto de Fin de Grado - CFGS Desarrollo de Aplicaciones Web (MULWEB)**
+**Proyecto de Fin de Grado - CFGS Desarrollo de Aplicaciones Multiplatafora (MULWEB)**
 
 ## Descripción
 
